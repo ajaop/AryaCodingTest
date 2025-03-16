@@ -1,0 +1,142 @@
+[
+    {
+        "merged": "/Users/mandy/.gradle/daemon/8.9/com.example.aryacodingtest.app-debug-44:/drawable_icon_chat_read.png.flat",
+        "source": "/Users/mandy/.gradle/daemon/8.9/com.example.aryacodingtest.app-main-46:/drawable/icon_chat_read.png"
+    },
+    {
+        "merged": "/Users/mandy/.gradle/daemon/8.9/com.example.aryacodingtest.app-debug-44:/drawable_icon_arrow_previous.xml.flat",
+        "source": "/Users/mandy/.gradle/daemon/8.9/com.example.aryacodingtest.app-main-46:/drawable/icon_arrow_previous.xml"
+    },
+    {
+        "merged": "/Users/mandy/.gradle/daemon/8.9/com.example.aryacodingtest.app-debug-44:/mipmap-xxxhdpi_ic_launcher_foreground.webp.flat",
+        "source": "/Users/mandy/.gradle/daemon/8.9/com.example.aryacodingtest.app-main-46:/mipmap-xxxhdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "/Users/mandy/.gradle/daemon/8.9/com.example.aryacodingtest.app-debug-44:/mipmap-hdpi_ic_launcher_foreground.webp.flat",
+        "source": "/Users/mandy/.gradle/daemon/8.9/com.example.aryacodingtest.app-main-46:/mipmap-hdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "/Users/mandy/.gradle/daemon/8.9/com.example.aryacodingtest.app-debug-44:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "/Users/mandy/.gradle/daemon/8.9/com.example.aryacodingtest.app-main-46:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/mandy/.gradle/daemon/8.9/com.example.aryacodingtest.app-debug-44:/drawable_arya_profileavatars_sarahcarter.jpg.flat",
+        "source": "/Users/mandy/.gradle/daemon/8.9/com.example.aryacodingtest.app-main-46:/drawable/arya_profileavatars_sarahcarter.jpg"
+    },
+    {
+        "merged": "/Users/mandy/.gradle/daemon/8.9/com.example.aryacodingtest.app-debug-44:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/mandy/.gradle/daemon/8.9/com.example.aryacodingtest.app-main-46:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/mandy/.gradle/daemon/8.9/com.example.aryacodingtest.app-debug-44:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "/Users/mandy/.gradle/daemon/8.9/com.example.aryacodingtest.app-main-46:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "/Users/mandy/.gradle/daemon/8.9/com.example.aryacodingtest.app-debug-44:/drawable_icon_camera.png.flat",
+        "source": "/Users/mandy/.gradle/daemon/8.9/com.example.aryacodingtest.app-main-46:/drawable/icon_camera.png"
+    },
+    {
+        "merged": "/Users/mandy/.gradle/daemon/8.9/com.example.aryacodingtest.app-debug-44:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "/Users/mandy/.gradle/daemon/8.9/com.example.aryacodingtest.app-main-46:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/mandy/.gradle/daemon/8.9/com.example.aryacodingtest.app-debug-44:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/mandy/.gradle/daemon/8.9/com.example.aryacodingtest.app-main-46:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/mandy/.gradle/daemon/8.9/com.example.aryacodingtest.app-debug-44:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "/Users/mandy/.gradle/daemon/8.9/com.example.aryacodingtest.app-main-46:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "/Users/mandy/.gradle/daemon/8.9/com.example.aryacodingtest.app-debug-44:/drawable_ic_launcher_background.xml.flat",
+        "source": "/Users/mandy/.gradle/daemon/8.9/com.example.aryacodingtest.app-main-46:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "/Users/mandy/.gradle/daemon/8.9/com.example.aryacodingtest.app-debug-44:/font_inter_medium.ttf.flat",
+        "source": "/Users/mandy/.gradle/daemon/8.9/com.example.aryacodingtest.app-main-46:/font/inter_medium.ttf"
+    },
+    {
+        "merged": "/Users/mandy/.gradle/daemon/8.9/com.example.aryacodingtest.app-debug-44:/font_inter_light.ttf.flat",
+        "source": "/Users/mandy/.gradle/daemon/8.9/com.example.aryacodingtest.app-main-46:/font/inter_light.ttf"
+    },
+    {
+        "merged": "/Users/mandy/.gradle/daemon/8.9/com.example.aryacodingtest.app-debug-44:/drawable_icon_photos.png.flat",
+        "source": "/Users/mandy/.gradle/daemon/8.9/com.example.aryacodingtest.app-main-46:/drawable/icon_photos.png"
+    },
+    {
+        "merged": "/Users/mandy/.gradle/daemon/8.9/com.example.aryacodingtest.app-debug-44:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "/Users/mandy/.gradle/daemon/8.9/com.example.aryacodingtest.app-main-46:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/mandy/.gradle/daemon/8.9/com.example.aryacodingtest.app-debug-44:/drawable_icon_sendmessage.png.flat",
+        "source": "/Users/mandy/.gradle/daemon/8.9/com.example.aryacodingtest.app-main-46:/drawable/icon_sendmessage.png"
+    },
+    {
+        "merged": "/Users/mandy/.gradle/daemon/8.9/com.example.aryacodingtest.app-debug-44:/font_inter_regular.ttf.flat",
+        "source": "/Users/mandy/.gradle/daemon/8.9/com.example.aryacodingtest.app-main-46:/font/inter_regular.ttf"
+    },
+    {
+        "merged": "/Users/mandy/.gradle/daemon/8.9/com.example.aryacodingtest.app-debug-44:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "/Users/mandy/.gradle/daemon/8.9/com.example.aryacodingtest.app-main-46:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/mandy/.gradle/daemon/8.9/com.example.aryacodingtest.app-debug-44:/drawable_icon_plus.png.flat",
+        "source": "/Users/mandy/.gradle/daemon/8.9/com.example.aryacodingtest.app-main-46:/drawable/icon_plus.png"
+    },
+    {
+        "merged": "/Users/mandy/.gradle/daemon/8.9/com.example.aryacodingtest.app-debug-44:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "/Users/mandy/.gradle/daemon/8.9/com.example.aryacodingtest.app-main-46:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "/Users/mandy/.gradle/daemon/8.9/com.example.aryacodingtest.app-debug-44:/xml_backup_rules.xml.flat",
+        "source": "/Users/mandy/.gradle/daemon/8.9/com.example.aryacodingtest.app-main-46:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "/Users/mandy/.gradle/daemon/8.9/com.example.aryacodingtest.app-debug-44:/font_inter_semibold.ttf.flat",
+        "source": "/Users/mandy/.gradle/daemon/8.9/com.example.aryacodingtest.app-main-46:/font/inter_semibold.ttf"
+    },
+    {
+        "merged": "/Users/mandy/.gradle/daemon/8.9/com.example.aryacodingtest.app-debug-44:/mipmap-xxhdpi_ic_launcher_foreground.webp.flat",
+        "source": "/Users/mandy/.gradle/daemon/8.9/com.example.aryacodingtest.app-main-46:/mipmap-xxhdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "/Users/mandy/.gradle/daemon/8.9/com.example.aryacodingtest.app-debug-44:/drawable_icon_files.png.flat",
+        "source": "/Users/mandy/.gradle/daemon/8.9/com.example.aryacodingtest.app-main-46:/drawable/icon_files.png"
+    },
+    {
+        "merged": "/Users/mandy/.gradle/daemon/8.9/com.example.aryacodingtest.app-debug-44:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/mandy/.gradle/daemon/8.9/com.example.aryacodingtest.app-main-46:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/mandy/.gradle/daemon/8.9/com.example.aryacodingtest.app-debug-44:/drawable_icon_audio.png.flat",
+        "source": "/Users/mandy/.gradle/daemon/8.9/com.example.aryacodingtest.app-main-46:/drawable/icon_audio.png"
+    },
+    {
+        "merged": "/Users/mandy/.gradle/daemon/8.9/com.example.aryacodingtest.app-debug-44:/drawable_icon_arrow_previous.png.flat",
+        "source": "/Users/mandy/.gradle/daemon/8.9/com.example.aryacodingtest.app-main-46:/drawable/icon_arrow_previous.png"
+    },
+    {
+        "merged": "/Users/mandy/.gradle/daemon/8.9/com.example.aryacodingtest.app-debug-44:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/mandy/.gradle/daemon/8.9/com.example.aryacodingtest.app-main-46:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/mandy/.gradle/daemon/8.9/com.example.aryacodingtest.app-debug-44:/mipmap-xhdpi_ic_launcher_foreground.webp.flat",
+        "source": "/Users/mandy/.gradle/daemon/8.9/com.example.aryacodingtest.app-main-46:/mipmap-xhdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "/Users/mandy/.gradle/daemon/8.9/com.example.aryacodingtest.app-debug-44:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/mandy/.gradle/daemon/8.9/com.example.aryacodingtest.app-main-46:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/mandy/.gradle/daemon/8.9/com.example.aryacodingtest.app-debug-44:/xml_data_extraction_rules.xml.flat",
+        "source": "/Users/mandy/.gradle/daemon/8.9/com.example.aryacodingtest.app-main-46:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "/Users/mandy/.gradle/daemon/8.9/com.example.aryacodingtest.app-debug-44:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "/Users/mandy/.gradle/daemon/8.9/com.example.aryacodingtest.app-main-46:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/mandy/.gradle/daemon/8.9/com.example.aryacodingtest.app-debug-44:/mipmap-mdpi_ic_launcher_foreground.webp.flat",
+        "source": "/Users/mandy/.gradle/daemon/8.9/com.example.aryacodingtest.app-main-46:/mipmap-mdpi/ic_launcher_foreground.webp"
+    }
+]
