@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Arya Coding Test</string>
+
+    <string name="arrow_previous">Arrow Previous Icon</string>
+    <string name="icon_plus">Upload items Icon</string>
+    <string name="icon_photo">Photo Icon</string>
+    <string name="icon_file">File Icon</string>
+    <string name="icon_camera">Camera Icon</string>
+    <string name="icon_audio">Audio Icon</string>
+    <string name="icon_send_message">Send Message Icon</string>
+    <string name="icon_chat_read">Chat Read Icon</string>">
+    <string name="profile_image">The App Profile Image</string>
+</resources>
