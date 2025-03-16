@@ -1,11 +1,11 @@
 # AryaCodingTest
 
 ## Tools and Frameworks Used
-Kotlin: Main programming language for Android development.
-Jetpack Compose: UI toolkit for building native UIs in Android.
-ViewModel: To manage UI-related data in a lifecycle-conscious way.
-Android Studio: IDE used for development.
-Gradle: Build automation tool for the project.
+1. Kotlin: Main programming language for Android development.
+2. Jetpack Compose: UI toolkit for building native UIs in Android.
+3. ViewModel: To manage UI-related data in a lifecycle-conscious way.
+4. Android Studio: IDE used for development.
+5. Gradle: Build automation tool for the project.
 
 
 ## Assumptions and Modifications
