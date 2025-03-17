@@ -1,7 +1,7 @@
 # AryaCodingTest
 
 ## APP APK 
-https://drive.google.com/file/d/1tMCgI5fNoeRhteH18xZjbwzdcqppsN4h/view?usp=sharing
+The downlodable link to the APK can be found at https://drive.google.com/file/d/1AQW2cgoAE5cSUIO1TCJlH-TdxFUF4flB/view?usp=sharing. The APK is stored as a zip file, after downloading you'll have to unzip the zipped file before getting access to the app apk
 
 ## RELEASE BUILD
 The release build for the app can be found at https://github.com/ajaop/AryaCodingTest/blob/master/app/release/semiloore-arya-app.apk
