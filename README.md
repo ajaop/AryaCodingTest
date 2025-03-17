@@ -3,6 +3,9 @@
 ## APP APK 
 https://drive.google.com/file/d/1tMCgI5fNoeRhteH18xZjbwzdcqppsN4h/view?usp=sharing
 
+## RELEASE BUILD
+The release build for the app can be found at https://github.com/ajaop/AryaCodingTest/blob/master/app/release/semiloore-arya-app.apk
+
 ## Tools and Frameworks Used
 1. Kotlin: Main programming language for Android development.
 2. Jetpack Compose: UI toolkit for building native UIs in Android.
